@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546586877362",
+    "project_id": "mtn-module-5-e370f",
+    "storage_bucket": "mtn-module-5-e370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546586877362:android:790c5fdb0ae0232660d8ab",
+        "android_client_info": {
+          "package_name": "com.example.mtn_app_academy_module_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546586877362-n1pq70p8mfiucl9poackf2k8dhis9mse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhL35DjPlItMTwGhicsDlfuTH-BZRCmKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546586877362-n1pq70p8mfiucl9poackf2k8dhis9mse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
